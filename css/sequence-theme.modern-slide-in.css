@@ -59,7 +59,7 @@ html,
   /* Reset the canvas and steps for more browser consistency */
   margin: 0;
   padding: 0;
-  height: 89%;
+  height: 85%;
   width: 100%;
   list-style: none;
 }
