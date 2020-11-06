@@ -1430,7 +1430,7 @@ img {
 
 #aa-testimonial {
   background-attachment: fixed;
-  background-image: url("../img/testimonial-bg-1.jpg");
+  background-image: url("../img/825a0c76-8296-41ed-8f83-0d046399476b.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   display: inline;
@@ -1452,10 +1452,10 @@ img {
 }
 #aa-testimonial .aa-testimonial-area {
   display: inline;
-  float: left;
-  padding: 100px 0;
+  float: right;
+  padding: 50px 0;
   text-align: center;
-  width: 100%;
+  width: 50%;
   position: relative;
   z-index: 99;
 }
@@ -1467,10 +1467,10 @@ img {
 #aa-testimonial .aa-testimonial-area .aa-testimonial-slider .aa-testimonial-single:before {
   border: 1px solid #fff;
   content: "";
-  height: 100px;
+  height: 50px;
   left: 0;
   top: 0;
-  width: 100px;
+  width: 50px;
   position: absolute;
   z-index: 1;
   background: #fff;
@@ -1524,7 +1524,7 @@ img {
   background: #fff none repeat scroll 0 0;
   cursor: pointer;
   height: 6px;
-  width: 20px;
+  width: 10px;
 }
 
 
