@@ -3346,6 +3346,41 @@ img {
 /*==================
  FOOTER SECTION
 ====================*/
+footer#home-footer .footer1 {background:url("img/footer-home-bg.png"); background-size:cover; position:relative; margin-top:-12px; padding-top:45px }
+footer#home-footer .footer1 ul.quick-links li{display:inline-block;width:21%}
+footer#home-footer .footer1 ul.quick-links li:nth-child(4n){width:26%}
+footer#home-footer ul.contactus li i{font-size:18px;color:#bfaa81;margin-right:10px;vertical-align:top}
+ul.social-footer{display:flex;margin-top:10px}
+ul.social-footer a{width:28px;height:28px;display:inline-block;border:1px solid #bfaa81;color:#bfaa81;border-radius:50%;text-align:center;line-height:28px;font-size:14px;margin-right:10px}
+ul.social-footer a:hover{color:#668939;border-color:#668939}
+footer#home-footer .sec2{margin-top:30px}
+footer#home-footer h4{color:#bfaa81 ;margin-bottom:20px}
+footer#home-footer .form-control{background:no-repeat;border:none;border-bottom:1px solid rgba(255,255,255,0.2);border-radius:0;padding:0;font-size:13px;height:25px;
+    color: #FFF;}
+footer#home-footer .form-group{margin-bottom:8px}
+footer#home-footer .footer2{color:#fff;font-size:12px;background-color:#000;padding-top:15px;padding-bottom:15px}
+.home-top .scroll.icon{width:49px;height:49px;padding:0;background:#fff;border-radius:50%;border:2px solid #00622c;color:#004a21;line-height:49px}
+.home-top .scroll.icon i{color:#004a21;line-height:0}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #aa-footer {
   background-color: #222;
